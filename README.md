@@ -1,2 +1,2 @@
 # mns
-Dépont du site Web du Martigues Natation Synchronisée
+Dépot du site Web du Martigues Natation Synchronisée
